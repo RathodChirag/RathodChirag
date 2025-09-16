@@ -34,7 +34,7 @@ I am a Full-Stack Developer specializing in Next.js and MERN stack with 2.5+ yea
 
 ### 🔗 Connect with me  
 <p align="center">
-  <a href="https://linkedin.com/in/chiragrathod29" target="_blank">
+  <a href="https://linkedin.com/in/chiragrathod29/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rathodchirag2972002@gmail.com">
